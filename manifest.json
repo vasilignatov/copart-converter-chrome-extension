@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "copart-converter-chrome-extension",
+    "description": "A simple chrome extension that converts miles to kilometers on Copart auto auctions",
+    "version": "1.0",
+    "icons": {
+      "16": "logo_16.png",
+      "48": "logo_48.png"
+    },
+    "action": {
+      "default_icon": "logo_16.png"
+    }
+}
